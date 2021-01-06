@@ -1,0 +1,16 @@
+{
+  "name": "hack-play",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "hack.js",
+  "main": "hack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ngrok": "^3.4.0"
+  }
+}
