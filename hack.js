@@ -29,6 +29,7 @@ http
   })
   .listen(60000)
 
+console.log('Very important stuff happening')
 ngrok.connect(60000)
   .then(url => {
     const req = http.request({
